@@ -140,5 +140,7 @@ For detailed explanation of each model and results, refer to:
 ## 👩‍💻 Author
 
 **Anum Kousar**
+
 📌 Exploring **Supervised, Unsupervised & Semi-Supervised ML**
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/anum-kousar)
+
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/anum-kousar-984406294/)
